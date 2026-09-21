@@ -1,36 +1,42 @@
 # Hello there! 👋 I'm Claudio Álvarez Rivera
 
-### **Tech Lead & Senior FullStack Developer | Software Architect**
+### **Tech Lead | Senior FullStack Engineer & Software Architect (+12 años exp)**
 
-Apasionado por construir sistemas robustos, escalables y eficientes. Mi enfoque combina la excelencia técnica en el ciclo completo de desarrollo (desde la arquitectura hasta el deployment) con una visión estratégica orientada a resolver problemas reales de negocio y optimizar el ROI técnico.
+Apasionado por diseñar e implementar plataformas de alta concurrencia, arquitecturas cloud escalables y soluciones integradas con **IA Generativa**. Mi enfoque combina la excelencia técnica en el ciclo completo de desarrollo (desde la arquitectura hasta el deployment) con FinOps, gobernanza de ingeniería y optimización del ROI técnico.
 
-## 🚀 Especialización Técnica (Stack de Alto Rendimiento)
+---
 
-Me especializo en el ecosistema TypeScript moderno, con un fuerte enfoque en arquitecturas de backend eficientes, interfaces de usuario de vanguardia y despliegue en la nube.
+## 🚀 Especialización Técnica
 
 | Área | Tecnologías Principales |
 | :--- | :--- |
-| **Backend & APIs** | `Node.js`, `TypeScript`, `NestJS`, `Fastify`, `Express`, `Python` |
-| **Frontend & Mobile** | `Next.js 16`, `React 19`, `React Native (Expo)`, `TailwindCSS` |
-| **Data & Cache** | `PostgreSQL`, `Sequelize`, `Prisma`, `Redis`, `Elasticsearch` |
-| **Infrastructure & Cloud** | `AWS`, `Docker`, `DevOps`, `CI/CD (Actions)`, `Kubernetes` |
+| **Backend & IA** | `NestJS`, `Node.js`, `TypeScript`, `Python`, `LlamaIndex`, `LlamaParse`, `PGVector` |
+| **Frontend & Mobile** | `React`, `Next.js`, `Expo (React Native)`, `TailwindCSS` |
+| **Data & Cache** | `PostgreSQL`, `Redis`, `Valkey`, `MySQL`, `SQL Server` |
+| **Cloud & DevOps** | `AWS (ECS, RDS, OUs)`, `Vercel`, `Docker`, `Bitbucket Pipelines`, `Claude Code` |
 
-## 🛠️ Logros Técnicos Destacados
+---
 
-* **Arquitectura de RPA con ML:** Lideré el diseño y desarrollo de un motor de RPA integrado con modelos de Machine Learning en Python para la automatización crítica de datos en BetBack, mejorando la eficiencia operativa en un [X]%.
-* **Migración a NestJS/Fastify:** Dirigí la migración de un backend legacy hacia NestJS con Fastify y capas de caché con Redis, logrando una reducción del [X]% en latencia y soportando [X] veces más concurrencia.
-* **Despliegue Multiplataforma:** Arquité el ecosistema mobile con React Native (Expo) y frontend con Next.js 16 para asegurar la consistencia del producto y la mantenibilidad a largo plazo.
+## 🛠️ Arquitectura & Logros Destacados
+
+* **Arquitectura RAG e IA Generativa:** Diseñé e implementé sistemas RAG sobre PostgreSQL (`pgvector`) orquestando pipelines de extracción con LlamaIndex/LlamaParse para el procesamiento de bases de conocimiento empresariales mediante LLMs (OpenAI, Claude, Gemini).
+* **Infraestructura Cloud Multi-Tenant & FinOps:** Implementé estructuras de Unidades Organizacionales (OUs) en AWS para aislamiento de servicios por cliente (ECS, RDS, Valkey) y auditorías de disponibilidad para optimizar la facturación en la nube.
+* **Integraciones & Sistemas en Tiempo Real:** Lideré desarrollos de automatización RPA/Scraping en Python y arquitecturas WebSockets para comunicación de baja latencia con plataformas POS y pasarelas de pago (Mercado Pago, Fintoc).
+* **Ecosistema Mobile & Gobernanza:** Dirigí la migración de aplicaciones móviles hacia Expo (React Native) consumiendo APIs en NestJS, estandarizando flujos de desarrollo asistidos por IA con Claude Code y pipelines con validación automática de pruebas unitarias.
+
+---
 
 ## 📊 Contribuciones y Código Abierto
 
-Mis contribuciones reflejan mi compromiso constante con la calidad y la automatización. No solo escribo código, sino que **defino estándares** y automatizo flujos de trabajo (workflows).
-
-* *Dato: Muchas de mis contribuciones técnicas más significativas están en repositorios privados.*
+* *Nota: La mayoría de mis desarrollos de arquitectura cloud, integraciones empresariales y proyectos de IA Generativa se encuentran en repositorios privados bajo acuerdos de confidencialidad.*
 
 ---
+
 <div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/ottoclaudio">
+  <a href="https://www.linkedin.com/in/alvarezclaudio/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dev.alvarezclaudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
